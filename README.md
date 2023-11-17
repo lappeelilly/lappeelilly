@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @treesha0807
-- 👀 I’m interested in literally EVERYTHING
-- 🌱 I’m currently learning WEB DESIGN & WEB DEVELOPING
 
+![3xFrame](https://github.com/treesha0807/treesha0807/assets/151122560/96488762-0f01-42a1-8923-c2d5d203aae8)
+----
 
+### 👨🏻‍💻 &nbsp;About Me
+
+```js
+import FullstackDeveloper from 'Treesha';
+
+class Bio extends FullstackDeveloper {
+  name     = 'Trisha' | 'Yubeen Park';
+  title    = 'Web Developer';
+  company  = 'Freelancer | Remote';
+  location = 'South of Korea, SEOUL';
+}
+
+class Skills extends FullstackDeveloper {
+  languages  = ['JavaScript', 'Java', 'TypeScript'];
+  databases  = ['MySQL','PostgreSQL', 'MongoDB'];
+  frameworks = ['React', 'SpringBoot', 'Express', 'Fastify', 'NestJS', 'Next.js'];
+}
+```
+----
 ![Treesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=treesha0807&show_icons=true&theme=default)
 
+### 🛠 &nbsp;Tech Stack
 - TOOL
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=FFFFFF"/></a>
