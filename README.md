@@ -1,7 +1,4 @@
 
-![3xFrame](https://github.com/treesha0807/treesha0807/assets/151122560/96488762-0f01-42a1-8923-c2d5d203aae8)
-----
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 ```js
