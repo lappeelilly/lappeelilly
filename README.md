@@ -5,7 +5,6 @@
 import FullstackDeveloper from 'Treesha';
 
 class Bio extends FullstackDeveloper {
-  name     = 'Trisha' | 'Yubeen Park';
   title    = 'Web Developer';
   company  = 'Freelancer | Remote';
   location = 'South of Korea, SEOUL';
